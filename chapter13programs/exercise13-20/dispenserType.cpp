@@ -28,9 +28,11 @@ dispenserType dispenserType::operator++() {
 }
 
 dispenserType dispenserType::operator++(int u) {
+  dispenserType temp = *this;
+
   numberOfItems++;
 
-  return *this;
+  return temp;
 }
 
 dispenserType dispenserType::operator--() {
@@ -40,9 +42,11 @@ dispenserType dispenserType::operator--() {
 }
 
 dispenserType dispenserType::operator--(int u) {
+  dispenserType temp = *this;
+
   numberOfItems--;
 
-  return *this;
+  return temp;
 }
 
 dispenserType::dispenserType(int setNoOfItems, int setCost)
