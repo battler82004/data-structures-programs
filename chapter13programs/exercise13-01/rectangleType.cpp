@@ -10,10 +10,12 @@ rectangleType rectangleType::operator++() {
 }
 
 rectangleType rectangleType::operator++(int u ) {
+  rectangleType temp = *this;
+
   length++;
   width++;
 
-  return *this;
+  return temp;
 }
 
 rectangleType rectangleType::operator--() {
@@ -25,10 +27,13 @@ rectangleType rectangleType::operator--() {
 }
 
 rectangleType rectangleType::operator--(int u ) {
-  length--;
-  width--;
+  rectangleType temp = *this;
 
-  return *this;
+  // Checks that neither the length or width will be negative
+  if (length > 0) { length--; }
+  if (width > 0) { width--; }
+
+  return temp;
 }
 
 rectangleType rectangleType::operator+(const rectangleType&
