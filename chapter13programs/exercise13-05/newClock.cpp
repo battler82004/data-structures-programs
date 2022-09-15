@@ -23,6 +23,8 @@ clockType clockType::operator++() {
 
 //Overload the post-increment operator.
 clockType clockType::operator++(int u) {
+  clockType temp = *this;
+
   sec++;
 
   if (sec == 60) { // Carry to minutes
@@ -34,7 +36,7 @@ clockType clockType::operator++(int u) {
     }
   }
 
-  return *this;
+  return temp;
 }
 
 //Overload the equality operator.
