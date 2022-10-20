@@ -3,7 +3,7 @@
   Description: This program overloads several default operators so that
     they work with the 'rectangleType' class.
   Author: James Taddei
-  Date: 9/15/21
+  Date: 9/15/22
 */
 
 #include <iostream>
