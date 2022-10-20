@@ -3,7 +3,7 @@
   Description: This program adds and tests the functions deleteSmallest
     and removeAll to the 'unorderedLinkedList' class.
   Author: James Taddei
-  Date: 10/6/21
+  Date: 10/6/22
 */
 
 #include <iostream>
