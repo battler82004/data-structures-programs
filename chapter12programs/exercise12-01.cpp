@@ -4,7 +4,7 @@
     string itself and uses a dynamic array to capitalize every char
     in the string and output said new string.
   Author: James Taddei
-  Date: 7/6/21
+  Date: 7/6/22
 */
 
 #include <iostream>
