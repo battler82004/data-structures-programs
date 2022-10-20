@@ -4,7 +4,7 @@
     second) and converts it to the 24 hr time notation while throwing
     an error if one of the times is invalid.
   Author: James Taddei
-  Date: 9/22/21
+  Date: 9/22/22
 */
 
 #include <iostream>
