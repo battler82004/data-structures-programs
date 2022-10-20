@@ -4,7 +4,7 @@
     'cashRegister' type and the ++ and -- operator for the clsas
     'dispenserType'.
   Author: James Taddei
-  Date: 9/15/21
+  Date: 9/15/22
 */
 
 #include <iostream>
