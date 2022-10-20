@@ -6,7 +6,7 @@
     if a number is in the list (inputted by user), the list after
     a num has been deleted (inputted by user), and the end list length.
   Author: James Taddei
-  Date: 10/13/21
+  Date: 10/13/22
 */
 
 // Test data: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, -999
