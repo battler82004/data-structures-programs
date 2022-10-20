@@ -3,7 +3,7 @@
   Description: This program overloads the increment (both pre and post)
     for the 'newClock' class.
   Author: James Taddei
-  Date: 7/8/21
+  Date: 7/8/22
 */
 
 #include <iostream> 
