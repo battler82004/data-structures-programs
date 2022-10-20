@@ -7,7 +7,7 @@
     to be removed. All occurances of the num are then
     removed from the array.
   Author: James Taddei
-  Date: 7/8/21
+  Date: 7/8/22
 */
  
 #include <iostream>
