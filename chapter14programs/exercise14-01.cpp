@@ -5,7 +5,7 @@
     this total length to cm. If a negative number is inputted, an
     exception will be thrown.
   Author: James Taddei
-  Date: 9/20/21
+  Date: 9/20/22
 */
 
 #include <iostream>
