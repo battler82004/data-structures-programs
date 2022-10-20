@@ -3,7 +3,7 @@
   Description: This program takes a number and outputs double that many
     lines of asterisks through the use of a recursive function.
   Author: James Taddei
-  Date: 9/27/21
+  Date: 9/27/22
 */
 
 #include <iostream>
