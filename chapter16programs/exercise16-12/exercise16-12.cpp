@@ -4,7 +4,7 @@
     and outputs various aspects of the list partially based on user
     input in order to test the 'doublyLinkedList' class.
   Author: James Taddei
-  Date: 10/13/21
+  Date: 10/13/22
 */
 
 // Test data: 83, 121, 98, 23, 57, 33, -999
