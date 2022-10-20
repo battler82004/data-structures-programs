@@ -3,7 +3,7 @@
   Description: This program takes in a number and finds the total of
     all of the digits in the number.
   Author: James Taddei
-  Date: 9/27/21
+  Date: 9/27/22
 */
 
 #include <iostream>
