@@ -5,7 +5,7 @@
     'min' method which returns the lowest value in the
     inputted list.
   Author: James Taddei
-  Date: 7/8/21
+  Date: 7/8/22
 */
  
 #include <iostream>
